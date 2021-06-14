@@ -1,6 +1,6 @@
 # Configuración de provider
 provider "google" {
-  project = "ClasesUHU"
+  project = "1036863954369"
   region  = "europe-west1"
 }
 
